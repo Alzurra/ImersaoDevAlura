@@ -2,7 +2,8 @@
 <br>
 
 <div>
-<central><h1>SUPER TRUNFO</h1></central>
+  text-align: center;
+<h1>SUPER TRUNFO</h1>
   
   <h4>The programming language to make this project was JavaScript. 
   Besides HTML and CSS.</h4>
