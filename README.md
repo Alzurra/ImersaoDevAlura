@@ -2,7 +2,7 @@
 <br>
 
 <div>
-
+ 
 <center><h1>SUPER TRUNFO</h1></center>
   
   <center><h4>The programming language to make this project was JavaScript. 
